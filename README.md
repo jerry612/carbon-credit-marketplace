@@ -35,9 +35,6 @@
 <br>
 
 
-## 【Demo Video】
-- https://youtu.be/LiMHJL8H2oA
-
 
 ***
 
